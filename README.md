@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Sah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Backend Developement*
 
 - 👯 I’m looking to collaborate on **web development projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi5heksah](https://github.com/abhi5heksah)
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVASCRIPT,jQuery,REACT,MONGODB,BOOTSTRAP,MATERIAL UI**
 
 - 📫 How to reach me **abhisheksah745@gmail.com**
 
